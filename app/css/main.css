@@ -1,0 +1,146 @@
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center; }
+
+.first {
+  width: 20%;
+  float: left; }
+
+.dandt1 {
+  margin-top: 20px 0; }
+
+.dandt2 {
+  margin-top: 20px 0; }
+
+.dandt3 {
+  margin-top: 20px 0; }
+
+.dandt4 {
+  margin-top: 20px 0; }
+
+.dandt5 {
+  margin-top: 20px 0; }
+
+.dandt6 {
+  margin-top: 20px 0; }
+
+.dandt2 {
+  margin-top: 20px 0; }
+
+.date {
+  color: grey;
+  margin-bottom: 0px;
+  margin-left: 10px; }
+
+.time {
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 10px; }
+
+.secound {
+  width: 20%;
+  float: left;
+  background-position: center; }
+
+.line1 {
+  background-color: pink;
+  height: 288px;
+  width: 5%; }
+
+.line2 {
+  background-color: pink;
+  height: 216px;
+  width: 5%; }
+
+.line3 {
+  background-color: pink;
+  height: 288px;
+  width: 5%; }
+
+.line4 {
+  background-color: pink;
+  height: 252px;
+  width: 5%; }
+
+.line5 {
+  background-color: pink;
+  height: 216px;
+  width: 5%; }
+
+.line6 {
+  background-color: pink;
+  height: 216px;
+  width: 5%; }
+
+.line7 {
+  background-color: pink;
+  height: 310px;
+  width: 5%; }
+
+.third {
+  width: 60%;
+  float: left; }
+
+.box1 {
+  margin: 20px 0;
+  border: 1px solid black;
+  padding: 8px;
+  background-color: pink; }
+
+.box2 {
+  margin: 20px 0;
+  border: 1px solid black;
+  padding: 8px;
+  background-color: orange; }
+
+.title1 {
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  background-color: pink; }
+
+.title2 {
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  background-color: orange; }
+
+.circle {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+  background: pink;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px; }
+
+i {
+  margin-top: 30px; }
+
+@media screen and (max-width: 900px) {
+  .time {
+    font-size: 40px; }
+  .date {
+    margin-left: 60px; } }
+
+@media screen and (max-width: 646px) {
+  .secound {
+    float: right; }
+  .third {
+    clear: both;
+    width: 100%; }
+  .line1 {
+    height: 0px; }
+  .line2 {
+    height: 0px; }
+  .line3 {
+    height: 0px; }
+  .line4 {
+    height: 0px; }
+  .line5 {
+    height: 0px; }
+  .line6 {
+    height: 0px; }
+  .line7 {
+    height: 0px; } }
+
+/*# sourceMappingURL=main.css.map */
